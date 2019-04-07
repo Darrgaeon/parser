@@ -1,0 +1,7 @@
+# IntellijIdea files
+*.iml
+.idea
+.git
+node_modules
+dist
+data.json

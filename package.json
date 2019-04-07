@@ -1,0 +1,18 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Parsing info with a sites ",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Darrgaeon",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.6.2",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "needle": "^2.2.4",
+    "osmosis": "^1.1.10"
+  }
+}
